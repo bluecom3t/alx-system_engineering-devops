@@ -9,3 +9,4 @@
 8. A script that sets the permission to the file hello where the owner and group has no permission at all and the other users have all the permissions.
 9. A script that sets the mode of the file hello.
 10. A script that sets the mode of the file hello the same as olleh's mode.
+11. A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
