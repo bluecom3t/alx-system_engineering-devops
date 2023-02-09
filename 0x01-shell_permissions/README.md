@@ -8,3 +8,4 @@
 7. A script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 8. A script that sets the permission to the file hello where the owner and group has no permission at all and the other users have all the permissions.
 9. A script that sets the mode of the file hello.
+10. A script that sets the mode of the file hello the same as olleh's mode.
